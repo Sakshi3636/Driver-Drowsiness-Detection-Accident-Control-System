@@ -1,0 +1,38 @@
+When a driver doesn’t get proper rest, they fall asleep while driving and this leads to fatal 
+accident. This particular issue demands a solution in the form of a system that is capable of 
+detecting drowsiness and to take necessary actions to avoid accidents. This report explains the 
+final project, driver drowsiness detection system. 
+ Accidents due to sleep deprivation is a common problem all around the world.A micro 
+sleep is something we all may have experienced at least once in our life, where we momentarily 
+fall asleep and then immediately awake up. And it is a very common thing among vehicle 
+drivers, they fall asleep and awake up immediately and continue with their previous activity 
+and it will not be an issue as long as it is a straight road and there is no vehicle ahead of them 
+or behind them but at the same time if the driver is driving along a curve or the motor vehicle 
+ahead of the driver is applying sudden brake then the reflex action by the driver will not be fast 
+enough to take appropriate action and mostly result in an accident.Driver drowsiness is one of 
+the main causes of road accidents around the world. Even though there are many road safety 
+products designed to prevent road accidents due to driver drowsiness.
+ Road accidents have been a major cause for concern across the Indian subcontinent .In 
+2019 alone, the country reported over 151 thousand fatalities due to road accidents. Each year, 
+about three to five percent of the country’s GDP was invested in road accidents. Notably, while 
+India has about one percent of the world’s vehicle population, it also accounted for about six 
+percent of the global road traffic incidents. Almost 70 percent of the accidents involved young 
+Indians.
+India is one of the busiest countries in the world in terms of road traffic. 40% of highway 
+accidents occur due to drivers dozing off Exhausted drivers who doze off at the wheel are 
+responsible for about 40% of road accidents, says a study by the Central Road Research 
+Institute (CRRI) . This number of accidents that INDIA is facing now days is very big number 
+. many of lives in India are loosing due to this situation .
+ In recent years, driver drowsiness has been one of the major causes of road accidents 
+and can lead to severe physical injuries, deaths and significant economic losses. Statistics 
+indicate the need of a reliable driver drowsiness detection system which could alert the driver 
+before a mishap happens. According to available statistical data, over 1.3 million people die 
+each year on the road and 20 to 50 million people suffer non-fatal injuries due to road accidents
+[1]. Based on police reports, the US National Highway Traffic Safety Administration (NHTSA) conservatively estimated that a total of 100,000 vehicle crashes each year are the 
+direct result of driver drowsiness. These crashes resulted in approximately 1,550 deaths, 71,000 
+injuries and $12.5 billion in monetary losses 
+[2]. In the year 2009, the US National Sleep Foundation (NSF) reported that 54% of adult 
+drivers have driven a vehicle while feeling drowsy and 28% of them actually fell asleep
+[3]. The German Road Safety Council (DVR) claims that one in four highway traffic fatalities 
+are a result of momentary driver drowsiness
+[4]. These statistics suggest that driver drowsiness is one of the main causes of road accident.
